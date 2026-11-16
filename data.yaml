@@ -1,0 +1,6 @@
+names:
+  0: cup
+  1: mobile_phone
+  2: bottle
+path: .
+train: train.txt

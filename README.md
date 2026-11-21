@@ -36,15 +36,15 @@ The following examples demonstrate manually created bounding-box annotations for
 
 ### Cup Annotation
 
-![Cup annotation](annotation-previews/cup-annotation.png)
+![Cup annotation](annotation-previews/cup-annotation.jpeg)
 
 ### Mobile Phone Annotation
 
-![Mobile phone annotation](annotation-previews/mobile-phone-annotation.png)
+![Mobile phone annotation](annotation-previews/mobile-phone-annotation.jpeg)
 
 ### Bottle Annotation
 
-![Bottle annotation](annotation-previews/bottle-annotation.png)
+![Bottle annotation](annotation-previews/bottle-annotation.jpeg)
 
 ## Annotation Process
 

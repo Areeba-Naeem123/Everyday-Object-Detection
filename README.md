@@ -40,7 +40,7 @@ The following examples demonstrate manually created bounding-box annotations for
 
 ### Mobile Phone Annotation
 
-![Mobile phone annotation](annotation-previews/mobile-phone-annotation.jpeg)
+![Mobile phone annotation](annotation-previews/mobile-annotation.jpeg)
 
 ### Bottle Annotation
 

@@ -50,12 +50,18 @@ Everyday-Object-Detection/
 
 ## Dataset Validation
 
-A Python validation script was used to check image paths, corresponding annotation files, YOLO annotation format, class IDs, and normalized bounding-box values.
+The dataset was checked using a custom Python validation script.
 
 **Validation results:**
-- Images listed: 24
+- Total images listed: 24
 - Errors found: 0
-- Basic validation: Passed
+- Image and annotation file matching: Passed
+- YOLO annotation format checks: Passed
+- Class ID and normalized coordinate checks: Passed
+
+**Result:** Basic dataset validation passed successfully.
+
+Note: This automated validation checks file paths and annotation structure. It does not replace manual visual inspection of bounding boxes.
 
 ## Tools and Technologies
 
